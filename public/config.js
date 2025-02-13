@@ -3,7 +3,7 @@ window.__CONFIG__ = {
   // If not specified, the onboarding will not allow a "default setup". The user will have to use the extension or set up a proxy themselves
   VITE_CORS_PROXY_URL: "https://simple-proxy.essamada26.workers.dev",
 
-  VITE_BACKEND_URL: "https://server.vidbinge.com",
+  VITE_BACKEND_URL: "ghcr.io/movie-web/simple-proxy",
 
   // The READ API key to access TMDB
   VITE_TMDB_READ_API_KEY: "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwMWFiMTMzNmJjYmY5ZmY0YjkwYWIyYjYxZGE0MmExNSIsIm5iZiI6MTczOTQwNjEyMi41OTksInN1YiI6IjY3YWQzYjJhOGM1NTc5YmE2ZTM2ZGIyZSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.bl_CnMOFs5OQsRl7QkO-amFMn-5mODLJnJm4zmP1Q8M",
